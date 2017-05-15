@@ -20,5 +20,5 @@ Week 1 is a great time to get acclimated to the office, do some research, and ge
 - [Email Coding 101 Infographic](https://litmus.com/blog/html-email-coding-101-infographic/email-coding-101)
 
 
-## 5. Review Front-end Resources
+## 4. Review Front-end Resources
 - Go through some of these [links](https://github.com/smonette/fed-resources)
