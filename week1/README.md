@@ -7,6 +7,7 @@ Week 1 is a great time to get acclimated to the office, do some research, and ge
 1. Download a text editor. I use [Sublime Text](https://www.sublimetext.com/), but you should use whatever you feel comfortable in. 
 2. Install [Xcode](https://developer.apple.com/xcode/) (It takes a long time, so don't be worried if it seems unreasonably long.)
 3. Install [Nodejs](https://nodejs.org/en/). This will also install npm!
+4. Download [Slack](https://slack.com/). Slack is our primary way of chatting at work!
 
 ## 2. Get Comfortable at 1355 Market
   * Fo IT Help, talk to Joey Santana: v-alsant@microsoft.com
