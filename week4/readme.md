@@ -3,7 +3,7 @@
 ## YAY FUN PROJECT! :sparkles:
 First off, thanks so much for bearing with me the past few weeks. It's been a crazy push to relaunch day and I appreciate you rolling with the chaos, and helping Ian on those emails—you're a lifesaver! 
 
-This week we have a fun dev exercise. Your task is to turn this [sketch file](https://www.dropbox.com/s/tsua2ouau8blqsn/Web_Dev_Exercise.sketch?dl=0) into a working HTML/Sass prototype! Since things are quieting down, you should have all thbe time you need to focus on building something your excited about.
+This week we have a fun dev exercise. Your task is to turn this [sketch file](https://www.dropbox.com/s/tsua2ouau8blqsn/Web_Dev_Exercise.sketch?dl=0) into a working HTML/Sass prototype! Since things are quieting down, you should have all the time you need to focus on building something your excited about.
 
 ### Goals
 This is a project for you to explore front-end development, and get familiar with the sort of problems you'd be asked in a job interview. You can use whatever tools you want, but I want to see the following:
@@ -16,8 +16,8 @@ This is a project for you to explore front-end development, and get familiar wit
 
 
 ## Final Deliverables
-- Slack me the URL to your repo
-- Slack me the URL to your site
+- Slack me the URL to your repo by middle of next week
+- Slack me the URL to your site by middle of next week
 
 ### Not sure where to start?
 1. Ask Ian can buy you a Sketch subscription with his Microsoft AMEX.
