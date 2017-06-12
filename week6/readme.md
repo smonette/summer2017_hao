@@ -1,7 +1,7 @@
 # Week 6
 
 ## Command Line
-As you started to realize last week, the Command Line is super useful when you're writing code. Let's spend this week getting more comfortable with commands and navigating your way through the file system.
+As you started to realize, feeling comfortable around the Command Line is super helpful in development. Let's start the week learning commands and how to navigate your way through the file system.
 
 ### Review 
 * [Learn Code the Hard Way](https://learnpythonthehardway.org/book/appendix-a-cli/ex1.html#do-more)
@@ -17,3 +17,4 @@ Next clone the game: `git clone https://github.com/veltman/clmystery.git`
 Once it's downloaded change directory into the game: `cd clmystery`
 
 Now, run `cat instructions` to read about how to play!
+
