@@ -26,4 +26,4 @@ First off, GOOD JOB! This was really good work, and I'm excited to see how you j
 
 If you go to the issues tab of your project, you'll see some comments and feedback that I've left for you. There's not too much but they're fixes that are good best practices. (And can really give you that polish that'll impress future employers)
 
-## 4. Move on to [next week >](week7)
+## 4. Move on to [next week >](/week7)
