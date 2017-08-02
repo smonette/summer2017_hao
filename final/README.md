@@ -40,6 +40,14 @@ Go back into your projects from this summer and choose a couple things to improv
 
 
 
+## Examples
+[Liam Campbell](http://liamcampbell.info/)
+
+[Christopher Kennedy](https://www.onebrightlight.com/)
+
+## Great Starting Points
+[Bootstrap](https://getbootstrap.com/)
+
 ---
 
 
