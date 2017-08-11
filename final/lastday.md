@@ -11,3 +11,6 @@ I can't believe it's your last day! Thank you for your amazing work this summer.
 4. Run through your presentaion a couple times. Ask a friend or someone on the team to watch and give you feedback.
 
 5. Raid the kitchen for Yellowstone snacks
+
+
+![Jellystone Snacks](http://www.southhavenjellystone.com/_upload/thumbnails/Images/images/themed_weekends/3158731.png)
